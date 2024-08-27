@@ -5,7 +5,6 @@ ENG: This is a simple script that displays last activity of GitHub user
 RUS: Это простой скрипт, который выводит последнюю активность пользователя на GitHub
 
 ## How to run?
-___
 
 ### 1. Clone the repo and run:
 
